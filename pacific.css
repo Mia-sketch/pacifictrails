@@ -1,0 +1,22 @@
+body { background-color: #FFFFFF;
+color: #666666;
+font-family:verdana, arial, sans-serif;
+}
+#wrapper { margin-left: auto;
+margin-right: auto;
+width:80%
+}
+header{background-color: #002171;
+color: #FFFFFF;
+font- family: georgia, serif;
+}
+nav { background-color: #BBDEFB;
+}
+dt { color: #002171;
+font-weight:bold;
+}
+.resort { font- size: 1.2em;
+footer { font-size: .70em;
+font-style: italic;
+text- align: center;
+}
